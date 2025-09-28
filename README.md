@@ -37,7 +37,7 @@ Currently in my second year of Computer Science at Taylor's University, speciali
 ![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=plotly&logoColor=white)
 ![Looker Studio](https://img.shields.io/badge/Looker-4285F4?style=for-the-badge&logo=google&logoColor=white)
-
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
 ## 📊 GitHub Stats
 
