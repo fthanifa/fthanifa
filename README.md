@@ -1,4 +1,4 @@
-<h1 align="center">Hellooo!! I'm Fitri ⋆｡°୨ৎ💻👩🏻‍💻🖇🤍 ⋆｡𖦹༄ </h1>
+<h1 align="center">Hellooo!! I'm Fitri ⋆｡°୨ৎ💻⋆｡𖦹༄ </h1>
 
 
 Currently in my second year of Computer Science at Taylor's University, specialising in Data Science and AI. I am detail-oriented in both the technical and creative work; from structuring clean, efficient code to ensuring visual designs and reports are consistent, accurate and polished.
