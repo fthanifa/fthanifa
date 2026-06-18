@@ -2,7 +2,7 @@
 
 **Computer Science student** @ Taylor's University · data science & ai · she/her
 
-I'm detail-oriented in both the technical and the creative; from building clean preprocessing pipelines to ensuring visual designs and reports are consistent, accurate and polished. I live at the intersection of **numbers, patterns, and making things look pretty**: whether that's a well-tuned model, a clean visualisation, or a report that actually makes sense to read. currently deep in the world of machine learning, statistics, and computer vision, and genuinely enjoying it (hehe, can you tell i love numbers, data and the arts!!!!).
+I'm detail-oriented in both the technical and the creative. I live at the intersection of **numbers, patterns, and making things look pretty**: whether that's a well-tuned model, a clean visualisation, or a report that actually makes sense to read. currently deep in the world of machine learning, statistics, and computer vision, and genuinely enjoying it (hehe, can you tell i love numbers, data and the arts!!!!).
 
 <br>
 
